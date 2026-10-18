@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "ads": {
+    "ad_head": "",
+    "ad_kutu2": "<ins data-publisher=\"adm-pub-7998141991\" data-ad-network=\"68fb6b17eda7398bcea85b3c\" data-ad-size=\"[[300, 250]]\" class=\"adm-ads-area\"></ins><script type=\"text/javascript\" src=\"https://static.cdn.admatic.com.tr/showad/showad.min.js\"></script>",
+    "ad_mobile_2": "<ins data-publisher=\"adm-pub-7998141991\" data-ad-network=\"68fb6b17eda7398bcea85b3c\" data-ad-size=\"[[320, 100]]\" class=\"adm-ads-area\"></ins><script type=\"text/javascript\" src=\"https://static.cdn.admatic.com.tr/showad/showad.min.js\"></script>",
+    "ad_mobile_3": "<script src=\"https://ad.adhouse.pro/286.js\"></script>"
+  }
+}
